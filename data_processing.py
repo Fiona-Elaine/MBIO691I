@@ -37,7 +37,7 @@ caption = ("Figure 1: This line plot visualizes mean sea surface temperature (SS
            "across 12 different models. The x-axis represents the different models, while the y-axis shows "
            "the mean SST. The blue line shows the measured SST in 2020, and minimal difference between the models "
            "can be observed. The red line depicts SST levels under different prediction scenarios for each model. "
-           "A clear difference in SST predictions for 2100 can be observed between the models.")
+           "A clear increase in SST can be observed across models with differences in SST predictions for 2100 between the models.")
 
 # Adjust caption position
 plt.figtext(0.5, 0.05, caption, wrap=True, horizontalalignment='center', fontsize=10)
